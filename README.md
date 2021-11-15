@@ -15,11 +15,11 @@
 * WHEN the game is over
 * THEN I can save my initials and score
 
-##Built With
+## Built With
 
-*JavaScript
-*HTML
-*CSS
+* JavaScript
+* HTML
+* CSS
 
 ## 👾 Website Link 👾
 
