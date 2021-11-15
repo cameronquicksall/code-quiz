@@ -15,9 +15,9 @@
 * WHEN the game is over
 * THEN I can save my initials and score
 
-## Built With
+## ⚙️ Built With ⚙️
 
-* JavaScript
+* JavaScript 
 * HTML
 * CSS
 
@@ -25,7 +25,7 @@
 
 https://cameronquicksall.github.io/code-quiz/
 
-## Screenshot
+## 📷 Screenshot 📷
 
 ![Quiz-SS1](https://user-images.githubusercontent.com/91788324/141720348-2d9e4940-af19-4373-88d8-9737dc7b3321.png)
 <img width="1440" alt="Quiz-SS2" src="https://user-images.githubusercontent.com/91788324/141720352-1ee3da6d-f9a0-4fae-9cca-4b2ed9a70ae9.png">
